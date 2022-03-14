@@ -20,6 +20,7 @@ public class ChinnaThambi extends MuniyandiVillas{
 	
      private void chickengravy() {
      System.out.println("chickengravy:100");
+     System.out.println("Mutton curry:200");
 	}
      
      public static void main(String[] args) {
